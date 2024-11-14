@@ -1,0 +1,15 @@
+.footer {
+    background-color: #333;      /* Dark background */
+    color: white;                /* White text */
+    text-align: center;          /* Center the text */
+    padding: 1rem;               /* Add padding for spacing */
+    font-size: 1rem;             /* Set font size */
+    width: 100%;                 /* Ensure it spans the full width of the page */
+    position: relative;          /* Relative positioning for footer placement */
+    bottom: 0;
+    /* margin-top: auto; */
+  }
+  
+  .footer p {
+    margin: 0;                   /* Remove default margin */
+  }
